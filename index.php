@@ -36,8 +36,7 @@
 				<span>© Copyright 2023 - Criar nome do TCC <br />Todos os direitos reservados</span>
 			</div>
 		</div>
-		
-
+	
 		    <script src="src/js/dialog.js"></script>
 			<script src="src/js/status.js"></script>
 
