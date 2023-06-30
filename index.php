@@ -31,7 +31,7 @@
 				</div>
 			</div>
 			
-			<div class="footer">
+			<div class="footer"> 
 				<img src="src/images/Hamburguer.png" alt="" />
 				<span>© Copyright 2023 - Criar nome do TCC <br />Todos os direitos reservados</span>
 			</div>
