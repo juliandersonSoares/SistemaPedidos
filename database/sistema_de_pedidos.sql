@@ -49,6 +49,13 @@ CREATE TABLE pedidos(
     data_pedido DATETIME NOT NULL
 ) DEFAULT charset utf8; 
 
+CREATE TABLE localizacao(
+id int auto_increment primary key,
+numero varchar(100),
+rua varchar(100),
+endereco varchar(100)
+);
+
 
 -- chave estrangeira id_perfil para usuario e para definir o tipo de usuario 
 ALTER TABLE usuarios ADD FOREIGN KEY(id_perfil) REFERENCES perfil (id);
